@@ -30,13 +30,16 @@ We turned ERD into a schema. <br>
 
 ## Step 3
 We created DWH schema to analyze the business. <br>
+
 <img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/DWH%20Schema.jpg"><br>
 
 
 
 ## Step 4
 We integrated and transformed data then loaded it into MS SQL Server by ETL tool **SSIS**.  <br>
-<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/SSIS.png"><br><br>
+
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/SSIS.png"><br>
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/DB%20ERD.jpg"><br>
 
 
 ## Step 5
