@@ -17,29 +17,31 @@ Analysis includes :
 # Project Steps
 
 ## Step 1
-We chose dataset with wide range of columns and rows to satisfy the criteria of the project of developing a database and apply wide range of queries and applications on it including views, subqueries, functions, stored procedures, cursors ..etc . <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/dataset%20image.png"><br>
+We created ERD to build a transactional database for company transactions. <br>
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/ERD.png"><br>
+
 
 
 ## Step 2
-WE created ERD of our database. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/ERD%20(2).png"><br>
+We turned ERD into a schema. <br>
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/mapping.jpg"><br>
+
 
 
 ## Step 3
-WE turned ERD into schema. <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Schema.png"><br>
+We created DWH schema to analyze the business. <br>
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/DWH%20Schema.jpg"><br>
+
 
 
 ## Step 4
-We created database 'HR' on Sql Server.  <br>
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/erd_sql.PNG"><br><br>
+We integrated and transformed data then loaded it into MS SQL Server by ETL tool **SSIS**.  <br>
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/SSIS.png"><br><br>
 
 
 ## Step 5
-We imported CSV into the tables of database. <br><br>
+We Created interactive dashboards by **Power BI** and **Tableau**. <br><br>
 
-<img  src = "https://github.com/shrouk-fouad/Advanced-SQL-HR-Dataset/blob/main/Import%20csv%20to%20sql%20server.PNG"><br>
 
 
 
