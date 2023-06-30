@@ -46,5 +46,5 @@ We integrated and transformed data then loaded it into MS SQL Server by ETL tool
 We Created interactive dashboards by **Power BI** and **Tableau**. <br><br>
 
 
-
+[Power BI Dashboard ](https://www.novypro.com/project/tradexpress)
 
