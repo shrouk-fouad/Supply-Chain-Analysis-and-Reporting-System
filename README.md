@@ -1,6 +1,6 @@
 # Supply-Chain-Analysis-and-Reporting-System
 
-This project is an Analysis of a global trade Company called TradeXPress that specializes in supplying high-quality products where they provide Wholesale items and Sell them to Retail Companies. This is a Comprehensive Analysis for all the Aspects of the Business Starting at July 2020 Till April 2022. This analysis was conducted in order to provide insights of how we've been doing so far and what recommendations can be provided in order to continue growing as a business  including increasing sales, expansion and better customer experience.
+This project is an Analysis of a global trade Company called TradeXPress that specializes in supplying high-quality products where they provide Wholesale items and Sell them to Retail Companies. This is a Comprehensive Analysis of all the Aspects of the Business Starting from July 2020 Till April 2022. This analysis was conducted in order to provide insights of how we've been doing so far and what recommendations can be provided in order to continue growing as a business  including increasing sales, expansion, and better customer experience.
 
 Analysis includes :
 * Sales trends
@@ -47,4 +47,18 @@ We Created interactive dashboards by **Power BI** and **Tableau**. <br><br>
 
 
 [Power BI Dashboard ](https://www.novypro.com/project/tradexpress)
+
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/Power%20BI.png"><br>
+
+
+
+[Tableau Dashboard ](https://public.tableau.com/app/profile/maryam.ahmed2384/viz/GraduationProject_16874768124450/SalesAnalysis)
+
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/Tableau.png"><br>
+
+
+
+## Step 6
+We Created paginated reports by **SSAS** and **SSRS**. <br><br>
+<img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/SSRS.png"><br>
 
