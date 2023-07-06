@@ -36,14 +36,14 @@ We created DWH schema to analyze the business. <br>
 
 
 ## Step 4
-We integrated and transformed data then loaded it into MS SQL Server by ETL tool **SSIS**.  <br>
+We created ETL Pipeline by **SSIS** to integrate and transform data then loaded it into MS SQL Server.  <br>
 
 <img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/SSIS.png"><br>
 <img  src = "https://github.com/shrouk-fouad/Supply-Chain-Analysis-and-Reporting-System/blob/main/DB%20ERD.jpg"><br>
 
 
 ## Step 5
-We Created interactive dashboards by **Power BI** and **Tableau**. <br><br>
+We analyzed data and communicated findings in interactive dashboards by **Power BI** and **Tableau**. <br><br>
 
 
 [Power BI Dashboard ](https://www.novypro.com/project/tradexpress)
